@@ -2,11 +2,5 @@
 
 ## Usage
 ```go
-package main
-
-import (
-    "fmt"
-    "github.com/zhengkai/go-bench"
-    "time"
-)
-
+TODO: Add usage
+```
